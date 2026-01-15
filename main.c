@@ -2,7 +2,7 @@
 
 // irem dinç
 // 2420161075
-// BTK Akademi Sertifika Baðlantýsý: https://www.btkakademi.gov.tr/portal/certificate/ZA1UrdeLOa
+// https://www.btkakademi.gov.tr/portal/certificate/ZA1UrdeLOa
 
 
 void dizi_yazdir(int dizi[], int BOYUT) {
@@ -88,5 +88,6 @@ int main() {
 
     return 0;
 }
+
 
 
