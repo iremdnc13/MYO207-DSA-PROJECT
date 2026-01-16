@@ -4,7 +4,6 @@
 // 2420161075
 // https://www.btkakademi.gov.tr/portal/certificate/ZA1UrdeLOa
 
-
 void dizi_yazdir(int dizi[], int BOYUT) {
     int i;
     for (i = 0; i < BOYUT; i++) {
@@ -88,6 +87,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
